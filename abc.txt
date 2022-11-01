@@ -2,5 +2,9 @@ abc
 This is a test file
 Adding extra lines. 
 
+ HEAD
 changes made 1st Nov
 studies merge conflict.
+
+line added to master
+ 611da05 (added a line to master)
