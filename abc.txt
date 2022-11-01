@@ -1,5 +1,6 @@
 abc
 This is a test file
 Adding extra lines. 
-changes made under feature1 branch
-not in main branch
+
+changes made 1st Nov
+studies merge conflict.
