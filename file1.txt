@@ -1,1 +1,3 @@
 Hello from Gitgit 
+Restarting to learn about git and gitgub
+Lets see how much I can master.
